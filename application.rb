@@ -58,3 +58,5 @@ module Application
     end
   end
 end
+
+# Add delete method
